@@ -13,6 +13,7 @@ default_expiration: "12h"
 
 env_variables:
   NODE_ENV: "production"
+  MESSAGE: "Hello GAE"
 
 
 automatic_scaling:
